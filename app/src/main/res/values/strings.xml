@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Yashvant Yadav</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+\n\nThe name\'sYashvant Yadav, but you can call me Yash for short.\n\nI\'m a bit of a mixed bag, but I like to think it makes me more interesting.
+
+\n\nFirst off, I\'m a coding machine. \nGive me a keyboard and a problem to solve, and I\'ll hack away at it until the cows come home. \n\nAnd let\'s be real, who doesn\'t love a good cow metaphor?
+
+\n\nWhen I\'m not coding, you\'ll usually find me holed up in my room playing video games. \n\nI\'m a master of the virtual universe and have saved the world more times than I can count. \n\nBut hey, it\'s not all just for fun and games. \n\nPlaying video games is a great way to hone my problem-solving skills and keep my reflexes sharp.
+
+\n\nNow, let\'s talk about my other passion: cricket. \n\nI know what you\'re thinking, "Wow, this guy\'s got range." \nAnd you\'re not wrong! I love nothing more than donning my cricket whites and hitting the pitch for a good game. \n\nIt\'s a sport that requires strategy, athleticism, and a killer sense of humor, which I\'ve got in spades.
+
+\n\nSpeaking of humor, I like to think of myself as a bit of a comedian. \n\nI mean, I\'m not exactly the next Dave Chappelle or Andrew Schultz, but I\'ve been known to crack a few jokes from time to time. \n\nAnd let\'s face it, with a name like Yashvant Yadav, \nI had to develop a sense of humor early on.
+
+\n\nSo there you have it, folks. \nI\'m a coding, video game-playing, cricket-loving comedian with a name that\'s a tongue twister. \n\nBut hey, I wouldn\'t have it any other way.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="Done">Done</string>
+</resources>
